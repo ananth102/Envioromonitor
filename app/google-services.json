@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473058429457",
+    "firebase_url": "https://cuhackstds-903d0.firebaseio.com",
+    "project_id": "cuhackstds-903d0",
+    "storage_bucket": "cuhackstds-903d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473058429457:android:60c9d24b8f78cede",
+        "android_client_info": {
+          "package_name": "com.woof.cuhacks_dawnstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473058429457-266s6rqpghp5vh36h29itqs37r74ueke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb37_6omHdvyqKL87hCHOgiUGshI-HbJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
